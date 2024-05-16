@@ -1,0 +1,26 @@
+html{
+    height: 100%;
+}
+body{
+    background: linear-gradient(rgb(33,33,33), rgb(29,185,84));
+}
+form{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 450px;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgb(255, 255, 255);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px #e5f3e1;;
+    border-radius: 10px;
+}
+select{
+    height: 155px;
+}
+h1{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
